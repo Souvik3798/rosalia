@@ -388,11 +388,13 @@
     </div>
 
 
+    <!-- reviews -->
     <div class="container mt-5">
       <h2 class="section-title text-center mb-4">
-        <i class="fas fa-star text-warning"></i> Customer Reviews
+        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_24dp.png" alt="Google" style="height: 24px; margin-right: 8px; vertical-align: text-bottom;">
+        <i class="fas fa-star text-warning"></i> Customer Reviews from Google
       </h2>
-      
+
       <div class="row">
         <div class="col-md-4">
           <div class="review-card">
@@ -412,6 +414,7 @@
             <p class="review-text">"An unforgettable experience"</p>
             <div class="review-date">
               <i class="far fa-calendar-alt"></i> January 02, 2024
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
             </div>
           </div>
         </div>
@@ -434,6 +437,7 @@
             <p class="review-text">Excellent service and amazing experience</p>
             <div class="review-date">
               <i class="far fa-calendar-alt"></i> December 08, 2021
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
             </div>
           </div>
         </div>
@@ -456,6 +460,7 @@
             <p class="review-text">Great hospitality and service</p>
             <div class="review-date">
               <i class="far fa-calendar-alt"></i> October 31, 2021
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
             </div>
           </div>
         </div>
@@ -468,7 +473,7 @@
         border-radius: 10px;
         padding: 20px;
         margin-bottom: 20px;
-        box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
         transition: transform 0.3s ease;
       }
 
