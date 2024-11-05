@@ -342,7 +342,7 @@
                 <span><i class="fas fa-snowflake"></i> AC</span>
               </div>
               <p class="price"><i class="fas fa-rupee-sign"></i> 1,250/person</p>
-              <a href="ferry-booking.php" class="btn-book">Book Now <i class="fas fa-arrow-right"></i></a>
+              <a href="cruise-list.php" class="btn-book">Book Now <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -361,7 +361,7 @@
                 <span><i class="fas fa-snowflake"></i> AC</span>
               </div>
               <p class="price"><i class="fas fa-rupee-sign"></i> 1,050/person</p>
-              <a href="ferry-booking.php" class="btn-book">Book Now <i class="fas fa-arrow-right"></i></a>
+              <a href="cruise-list.php" class="btn-book">Book Now <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -380,7 +380,7 @@
                 <span><i class="fas fa-snowflake"></i> AC</span>
               </div>
               <p class="price"><i class="fas fa-rupee-sign"></i> 1,450/person</p>
-              <a href="ferry-booking.php" class="btn-book">Book Now <i class="fas fa-arrow-right"></i></a>
+              <a href="cruise-list.phpp" class="btn-book">Book Now <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
