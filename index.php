@@ -386,6 +386,155 @@
         </div>
       </div>
     </div>
+
+
+    <div class="container mt-5">
+      <h2 class="section-title text-center mb-4">
+        <i class="fas fa-star text-warning"></i> Customer Reviews
+      </h2>
+      
+      <div class="row">
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=Panda&background=random" alt="Panda" class="reviewer-img">
+                <h5>Panda</h5>
+              </div>
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+              </div>
+            </div>
+            <p class="review-text">"An unforgettable experience"</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> January 02, 2024
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=AEH&background=random" alt="Andaman Exotic Holidays" class="reviewer-img">
+                <h5>Andaman Exotic Holidays</h5>
+              </div>
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="far fa-star text-warning"></i>
+              </div>
+            </div>
+            <p class="review-text">Excellent service and amazing experience</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> December 08, 2021
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=Surendran&background=random" alt="Surendran A S" class="reviewer-img">
+                <h5>Surendran A S</h5>
+              </div>
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="far fa-star text-warning"></i>
+              </div>
+            </div>
+            <p class="review-text">Great hospitality and service</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> October 31, 2021
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <style>
+      .review-card {
+        background: #fff;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease;
+      }
+
+      .review-card:hover {
+        transform: translateY(-5px);
+      }
+
+      .review-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 15px;
+      }
+
+      .reviewer-info {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .reviewer-img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+      }
+
+      .reviewer-info h5 {
+        margin: 0;
+        color: #333;
+        font-size: 1.1rem;
+      }
+
+      .rating {
+        color: #ffc107;
+      }
+
+      .review-text {
+        color: #666;
+        margin: 10px 0;
+        font-style: italic;
+      }
+
+      .review-date {
+        color: #999;
+        font-size: 0.9rem;
+      }
+
+      .section-title {
+        color: #333;
+        position: relative;
+        padding-bottom: 15px;
+      }
+
+      .section-title:after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100px;
+        height: 3px;
+        background-color: #59c45a;
+      }
+    </style>
+
+
   </div>
 </section>
 
