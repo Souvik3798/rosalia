@@ -79,7 +79,7 @@
             <div class="container">
                 <!-- Logo -->
                 <div class="logo float-left">
-                    <a href="index.php" title=""><img src="images/logo.png" alt="" /></a>
+                    <a href="/" title=""><img src="images/logo.png" alt="" /></a>
                 </div>
                 <!-- End Logo -->
                 <!-- Bars -->

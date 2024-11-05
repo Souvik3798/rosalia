@@ -5,7 +5,7 @@
             <!-- Logo -->
             <div class="col-md-4">
                 <div class="logo-foter">
-                    <a href="index.html" title=""><img src="images/logolight.png" alt="" /></a>
+                    <a href="/" title=""><img src="images/logolight.png" alt="" /></a>
                 </div>
             </div>
             <!-- End Logo -->
