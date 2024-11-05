@@ -391,7 +391,7 @@
     <!-- reviews -->
     <div class="container mt-5">
       <h2 class="section-title text-center mb-4">
-        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_24dp.png" alt="Google" style="height: 24px; margin-right: 8px; vertical-align: text-bottom;">
+        <img src="https://www.google.com/favicon.ico" alt="Google" style="height: 24px; margin-right: 8px; vertical-align: text-bottom;">
         <i class="fas fa-star text-warning"></i> Customer Reviews from Google
       </h2>
 
