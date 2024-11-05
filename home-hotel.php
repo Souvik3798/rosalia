@@ -164,7 +164,7 @@
                 <a href="https://wa.me/8900943735?text=I want to book hotel Fortune Resort Bay Island" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
-                <a href="sinclairs.php">
+                <a href="Sinclairs.php">
                     <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/f7/d1/ac/sinclairs-bay-view-port.jpg?w=700&h=-1&s=1" alt="Sinclairs Bayview Port Blair">
                     <h4>Sinclairs Bayview Port Blair</h4>
                     <p>Located on a cliff, offering panoramic beach views.</p>
