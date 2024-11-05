@@ -8,7 +8,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Home</title>
+    <title>Rosalia Travel - Book Hotels, Cabs, Cruises & Tour Packages in Andaman | Best Travel Agency</title>
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
