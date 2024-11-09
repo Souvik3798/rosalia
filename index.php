@@ -395,95 +395,95 @@
         <i class="fas fa-star text-warning"></i> Customer Reviews from Google
       </h2>
 
-      <div class="review-slider">
-        <div class="review-slide">
-          <div class="review-row">
-            <div class="review-card">
-              <div class="review-header">
-                <div class="reviewer-info">
-                  <img src="https://ui-avatars.com/api/?name=Panda&background=random" alt="Panda" class="reviewer-img">
-                  <h5>Panda</h5>
-                </div>
-                <div class="rating">
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=Panda&background=random" alt="Panda" class="reviewer-img">
+                <h5>Panda</h5>
               </div>
-              <p class="review-text">"An unforgettable experience"</p>
-              <div class="review-date">
-                <i class="far fa-calendar-alt"></i> January 02, 2024
-                <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
               </div>
             </div>
-
-            <div class="review-card">
-              <div class="review-header">
-                <div class="reviewer-info">
-                  <img src="https://ui-avatars.com/api/?name=AEH&background=random" alt="Andaman Exotic Holidays" class="reviewer-img">
-                  <h5>Andaman Exotic Holidays</h5>
-                </div>
-                <div class="rating">
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="far fa-star text-warning"></i>
-                </div>
-              </div>
-              <p class="review-text">Excellent service and amazing experience</p>
-              <div class="review-date">
-                <i class="far fa-calendar-alt"></i> December 08, 2021
-                <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
-              </div>
-            </div>
-
-            <div class="review-card">
-              <div class="review-header">
-                <div class="reviewer-info">
-                  <img src="https://ui-avatars.com/api/?name=Surendran&background=random" alt="Surendran A S" class="reviewer-img">
-                  <h5>Surendran A S</h5>
-                </div>
-                <div class="rating">
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="far fa-star text-warning"></i>
-                </div>
-              </div>
-              <p class="review-text">Great hospitality and service</p>
-              <div class="review-date">
-                <i class="far fa-calendar-alt"></i> October 31, 2021
-                <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
-              </div>
+            <p class="review-text">"An unforgettable experience"</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> January 02, 2024
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
             </div>
           </div>
         </div>
 
-        <div class="review-slide">
-          <div class="review-row">
-            <div class="review-card">
-              <div class="review-header">
-                <div class="reviewer-info">
-                  <img src="https://ui-avatars.com/api/?name=Anuranjan+Majumder&background=random" alt="Anuranjan Majumder" class="reviewer-img">
-                  <h5>Anuranjan Majumder</h5>
-                </div>
-                <div class="rating">
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                  <i class="fas fa-star text-warning"></i>
-                </div>
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=AEH&background=random" alt="Andaman Exotic Holidays" class="reviewer-img">
+                <h5>Andaman Exotic Holidays</h5>
               </div>
-              <p class="review-text">𝑻𝒉𝒆𝒚 𝒎𝒂𝒌𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒓𝒊𝒑𝒔 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒂𝒇𝒇𝒐𝒓𝒅𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒈𝒐𝒐𝒅. 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑳𝒖𝒄𝒊𝒂𝒏 𝒌𝒖𝒋𝒖𝒓 𝒘𝒉𝒐 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 𝒖𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒐𝒖𝒓 𝒃𝒖𝒅𝒈𝒆𝒕. 𝑻𝒉𝒆 𝒉𝒐𝒕𝒆𝒍 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒔𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑬𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒘𝒂𝒔 𝒗𝒆𝒓𝒚 𝒘𝒆𝒍𝒍 𝒎𝒂𝒏𝒂𝒈𝒆𝒅. 𝑨𝒕𝒍𝒂𝒔𝒕 𝒃𝒖𝒕 𝒏𝒐𝒕 𝒍𝒆𝒂𝒔𝒕 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒎𝒚 𝒂𝒏𝒅𝒂𝒎𝒂𝒏 𝒗𝒊𝒔𝒊𝒕 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑲𝒖𝒋𝒖𝒓</p>
-              <div class="review-date">
-                <i class="far fa-calendar-alt"></i> July 11, 2024
-                <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="far fa-star text-warning"></i>
               </div>
+            </div>
+            <p class="review-text">Excellent service and amazing experience</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> December 08, 2021
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=Surendran&background=random" alt="Surendran A S" class="reviewer-img">
+                <h5>Surendran A S</h5>
+              </div>
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="far fa-star text-warning"></i>
+              </div>
+            </div>
+            <p class="review-text">Great hospitality and service</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> October 31, 2021
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=Anuranjan+Majumder&background=random" alt="Anuranjan Majumder" class="reviewer-img">
+                <h5>Anuranjan Majumder</h5>
+              </div>
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+              </div>
+            </div>
+            <p class="review-text">𝑻𝒉𝒆𝒚 𝒎𝒂𝒌𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒓𝒊𝒑𝒔 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒂𝒇𝒇𝒐𝒓𝒅𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒈𝒐𝒐𝒅. 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑳𝒖𝒄𝒊𝒂𝒏 𝒌𝒖𝒋𝒖𝒓 𝒘𝒉𝒐 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 𝒖𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒐𝒖𝒓 𝒃𝒖𝒅𝒈𝒆𝒕. 𝑻𝒉𝒆 𝒉𝒐𝒕𝒆𝒍 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒔𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑬𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒘𝒂𝒔 𝒗𝒆𝒓𝒚 𝒘𝒆𝒍𝒍 𝒎𝒂𝒏𝒂𝒈𝒆𝒅. 𝑨𝒕𝒍𝒂𝒔𝒕 𝒃𝒖𝒕 𝒏𝒐𝒕 𝒍𝒆𝒂𝒔𝒕 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒎𝒚 𝒂𝒏𝒅𝒂𝒎𝒂𝒏 𝒗𝒊𝒔𝒊𝒕 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑲𝒖𝒋𝒖𝒓</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> July 11, 2024
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
             </div>
           </div>
         </div>
@@ -491,39 +491,11 @@
     </div>
 
     <style>
-      .review-slider {
-        position: relative;
-        width: 100%;
-        overflow: hidden;
-      }
-
-      .review-slide {
-        display: none;
-        animation: slideEffect 1s ease;
-      }
-
-      .review-row {
-        display: flex;
-        justify-content: space-between;
-        gap: 20px;
-      }
-
-      @keyframes slideEffect {
-        from {
-          transform: translateX(100%);
-          opacity: 0;
-        }
-        to {
-          transform: translateX(0);
-          opacity: 1;
-        }
-      }
-
       .review-card {
         background: #fff;
         border-radius: 10px;
         padding: 20px;
-        flex: 1;
+        margin-bottom: 20px;
         box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
         transition: transform 0.3s ease;
       }
@@ -565,11 +537,6 @@
         color: #666;
         margin: 10px 0;
         font-style: italic;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
       }
 
       .review-date {
@@ -593,78 +560,7 @@
         height: 3px;
         background-color: #59c45a;
       }
-
-      /* Navigation dots styling */
-      .dots-container {
-        text-align: center;
-        padding: 20px 0;
-      }
-
-      .dot {
-        cursor: pointer;
-        height: 12px;
-        width: 12px;
-        margin: 0 5px;
-        background-color: #bbb;
-        border-radius: 50%;
-        display: inline-block;
-        transition: all 0.3s ease;
-      }
-
-      .active,
-      .dot:hover {
-        background-color: #59c45a;
-        transform: scale(1.2);
-      }
     </style>
-
-    <script>
-      let slideIndex = 0;
-      showSlides();
-
-      function showSlides() {
-        let slides = document.getElementsByClassName("review-slide");
-        let dots = document.getElementsByClassName("dot");
-        
-        // Hide all slides
-        for (let i = 0; i < slides.length; i++) {
-          slides[i].style.display = "none";
-          dots[i].className = dots[i].className.replace(" active", "");
-        }
-        
-        slideIndex++;
-        if (slideIndex > slides.length) {
-          slideIndex = 1;
-        }
-        
-        // Show current slide and activate corresponding dot
-        slides[slideIndex - 1].style.display = "block";
-        dots[slideIndex - 1].className += " active";
-        
-        setTimeout(showSlides, 5000); // Change slide every 5 seconds
-      }
-
-      function currentSlide(n) {
-        slideIndex = n - 1;
-        showSlides();
-      }
-
-      // Add dots dynamically
-      document.addEventListener('DOMContentLoaded', function() {
-        const slides = document.getElementsByClassName("review-slide");
-        const dotsContainer = document.createElement('div');
-        dotsContainer.className = 'dots-container';
-        
-        for (let i = 0; i < slides.length; i++) {
-          const dot = document.createElement('span');
-          dot.className = 'dot';
-          dot.onclick = function() { currentSlide(i + 1); };
-          dotsContainer.appendChild(dot);
-        }
-        
-        document.querySelector('.review-slider').appendChild(dotsContainer);
-      });
-    </script>
 
 
   </div>
