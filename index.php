@@ -395,8 +395,8 @@
         <i class="fas fa-star text-warning"></i> Customer Reviews from Google
       </h2>
 
-      <div class="row">
-        <div class="col-md-4">
+      <div class="review-slider">
+        <div class="review-slide">
           <div class="review-card">
             <div class="review-header">
               <div class="reviewer-info">
@@ -419,7 +419,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="review-slide">
           <div class="review-card">
             <div class="review-header">
               <div class="reviewer-info">
@@ -442,7 +442,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="review-slide">
           <div class="review-card">
             <div class="review-header">
               <div class="reviewer-info">
@@ -465,7 +465,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="review-slide">
           <div class="review-card">
             <div class="review-header">
               <div class="reviewer-info">
@@ -491,11 +491,27 @@
     </div>
 
     <style>
+      .review-slider {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      .review-slide {
+        display: none;
+        animation: fadeEffect 1s;
+      }
+
+      @keyframes fadeEffect {
+        from {opacity: 0.4}
+        to {opacity: 1}
+      }
+
       .review-card {
         background: #fff;
         border-radius: 10px;
         padding: 20px;
-        margin-bottom: 20px;
+        margin: 0 10px;
         box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
         transition: transform 0.3s ease;
       }
@@ -560,7 +576,40 @@
         height: 3px;
         background-color: #59c45a;
       }
+
+      /* Add navigation dots */
+      .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+      }
+
+      .active, .dot:hover {
+        background-color: #717171;
+      }
     </style>
+
+    <script>
+      let slideIndex = 0;
+      showSlides();
+
+      function showSlides() {
+        let i;
+        let slides = document.getElementsByClassName("review-slide");
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {slideIndex = 1}
+        slides[slideIndex-1].style.display = "block";
+        setTimeout(showSlides, 5000); // Change slide every 5 seconds
+      }
+    </script>
 
 
   </div>
