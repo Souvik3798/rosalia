@@ -499,7 +499,7 @@
 
       .review-slide {
         display: none;
-        animation: fadeEffect 1s;
+        animation: slideEffect 1s ease;
       }
 
       .review-row {
@@ -508,13 +508,14 @@
         gap: 20px;
       }
 
-      @keyframes fadeEffect {
+      @keyframes slideEffect {
         from {
-          opacity: 0.4
+          transform: translateX(100%);
+          opacity: 0;
         }
-
         to {
-          opacity: 1
+          transform: translateX(0);
+          opacity: 1;
         }
       }
 
@@ -593,21 +594,27 @@
         background-color: #59c45a;
       }
 
-      /* Add navigation dots */
+      /* Navigation dots styling */
+      .dots-container {
+        text-align: center;
+        padding: 20px 0;
+      }
+
       .dot {
         cursor: pointer;
-        height: 15px;
-        width: 15px;
-        margin: 0 2px;
+        height: 12px;
+        width: 12px;
+        margin: 0 5px;
         background-color: #bbb;
         border-radius: 50%;
         display: inline-block;
-        transition: background-color 0.6s ease;
+        transition: all 0.3s ease;
       }
 
       .active,
       .dot:hover {
-        background-color: #717171;
+        background-color: #59c45a;
+        transform: scale(1.2);
       }
     </style>
 
@@ -616,18 +623,47 @@
       showSlides();
 
       function showSlides() {
-        let i;
         let slides = document.getElementsByClassName("review-slide");
-        for (i = 0; i < slides.length; i++) {
+        let dots = document.getElementsByClassName("dot");
+        
+        // Hide all slides
+        for (let i = 0; i < slides.length; i++) {
           slides[i].style.display = "none";
+          dots[i].className = dots[i].className.replace(" active", "");
         }
+        
         slideIndex++;
         if (slideIndex > slides.length) {
-          slideIndex = 1
+          slideIndex = 1;
         }
+        
+        // Show current slide and activate corresponding dot
         slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+        
         setTimeout(showSlides, 5000); // Change slide every 5 seconds
       }
+
+      function currentSlide(n) {
+        slideIndex = n - 1;
+        showSlides();
+      }
+
+      // Add dots dynamically
+      document.addEventListener('DOMContentLoaded', function() {
+        const slides = document.getElementsByClassName("review-slide");
+        const dotsContainer = document.createElement('div');
+        dotsContainer.className = 'dots-container';
+        
+        for (let i = 0; i < slides.length; i++) {
+          const dot = document.createElement('span');
+          dot.className = 'dot';
+          dot.onclick = function() { currentSlide(i + 1); };
+          dotsContainer.appendChild(dot);
+        }
+        
+        document.querySelector('.review-slider').appendChild(dotsContainer);
+      });
     </script>
 
 
