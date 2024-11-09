@@ -464,6 +464,29 @@
             </div>
           </div>
         </div>
+
+        <div class="col-md-4">
+          <div class="review-card">
+            <div class="review-header">
+              <div class="reviewer-info">
+                <img src="https://ui-avatars.com/api/?name=Anuranjan+Majumder&background=random" alt="Anuranjan Majumder" class="reviewer-img">
+                <h5>Anuranjan Majumder</h5>
+              </div>
+              <div class="rating">
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+                <i class="fas fa-star text-warning"></i>
+              </div>
+            </div>
+            <p class="review-text">𝑻𝒉𝒆𝒚 𝒎𝒂𝒌𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒓𝒊𝒑𝒔 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒂𝒇𝒇𝒐𝒓𝒅𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒈𝒐𝒐𝒅. 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑳𝒖𝒄𝒊𝒂𝒏 𝒌𝒖𝒋𝒖𝒓 𝒘𝒉𝒐 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 𝒖𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒐𝒖𝒓 𝒃𝒖𝒅𝒈𝒆𝒕. 𝑻𝒉𝒆 𝒉𝒐𝒕𝒆𝒍 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒔𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑬𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒘𝒂𝒔 𝒗𝒆𝒓𝒚 𝒘𝒆𝒍𝒍 𝒎𝒂𝒏𝒂𝒈𝒆𝒅. 𝑨𝒕𝒍𝒂𝒔𝒕 𝒃𝒖𝒕 𝒏𝒐𝒕 𝒍𝒆𝒂𝒔𝒕 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒎𝒚 𝒂𝒏𝒅𝒂𝒎𝒂𝒏 𝒗𝒊𝒔𝒊𝒕 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑲𝒖𝒋𝒖𝒓</p>
+            <div class="review-date">
+              <i class="far fa-calendar-alt"></i> July 11, 2024
+              <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
