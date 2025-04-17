@@ -161,7 +161,7 @@
                     <h4>Fortune Resort Bay Island</h4>
                     <p>Beautiful beachfront views with premium amenities.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Fortune Resort Bay Island" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Fortune Resort Bay Island" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Sinclairs.php">
@@ -169,7 +169,7 @@
                     <h4>Sinclairs Bayview Port Blair</h4>
                     <p>Located on a cliff, offering panoramic beach views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Sinclairs Bayview Port Blair" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Sinclairs Bayview Port Blair" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="peerless.php">
@@ -177,7 +177,7 @@
                     <h4>Peerless Resort Port Blair</h4>
                     <p>Direct access to a serene private beach.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Peerless Resort Port Blair" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Peerless Resort Port Blair" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="seashell.php">
@@ -185,7 +185,7 @@
                     <h4>SeaShell, Port Blair</h4>
                     <p>Rooftop lounge with stunning sea views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel SeaShell, Port Blair" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel SeaShell, Port Blair" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="sentinel.php">
@@ -193,7 +193,7 @@
                     <h4>Hotel Sentinel</h4>
                     <p>Colonial-style hotel near beautiful beaches.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Hotel Sentinel" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Hotel Sentinel" class="book-now-btn" target="_blank">Book Now</a>
             </div>
         </div>
     </div>
@@ -207,7 +207,7 @@
                     <h4>AT Villa</h4>
                     <p>Relax in the outdoor pool with scenic views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel AT Villa" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel AT Villa" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="mansaresidency.php">
@@ -215,7 +215,7 @@
                     <h4>Mansha Regency</h4>
                     <p>Offers a large pool for relaxing and swimming.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Mansha Regency" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Mansha Regency" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="itc.php">
@@ -223,7 +223,7 @@
                     <h4>Welcome hotel by ITC Hotels</h4>
                     <p>Luxury hotel with an infinity pool and ocean views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Welcomhotel by ITC Hotels" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Welcomhotel by ITC Hotels" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="peerless.php">
@@ -231,7 +231,7 @@
                     <h4>Peerless Resort Port Blair</h4>
                     <p>Enjoy a poolside experience with beach views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Peerless Resort Port Blair" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Peerless Resort Port Blair" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="shompen.php">
@@ -239,7 +239,7 @@
                     <h4>Hotel Shompen</h4>
                     <p>Comfortable hotel with a well-maintained pool.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Hotel Shompen" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Hotel Shompen" class="book-now-btn" target="_blank">Book Now</a>
             </div>
         </div>
     </div>
@@ -254,7 +254,7 @@
                     <h4>Taj Exotica Resort & Spa</h4>
                     <p>Luxury resort on Radhanagar Beach with breathtaking views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Taj Exotica Resort & Spa" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Taj Exotica Resort & Spa" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="silversand.php">
@@ -262,7 +262,7 @@
                     <h4>SilverSand Beach Resort</h4>
                     <p>Direct access to Vijay Nagar Beach.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel SilverSand Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel SilverSand Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="coralreefresort.php">
@@ -270,7 +270,7 @@
                     <h4>Coral Reef Resort</h4>
                     <p>Offers a private beach and scenic views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Coral Reef Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Coral Reef Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="barefoot.php">
@@ -278,7 +278,7 @@
                     <h4>Barefoot at Havelock</h4>
                     <p>Eco-friendly resort on Radhanagar Beach.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Barefoot at Havelock" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Barefoot at Havelock" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="symphonypalms.php">
@@ -286,7 +286,7 @@
                     <h4>Symphony Palms Beach Resort</h4>
                     <p>Beautiful beachfront with island ambiance.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Symphony Palms Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Symphony Palms Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
         </div>
     </div>
@@ -300,7 +300,7 @@
                     <h4>SeaShell Havelock</h4>
                     <p>Luxurious pool area with a relaxing ambiance.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel SeaShell Havelock" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel SeaShell Havelock" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="islandbeachresort.php">
@@ -308,7 +308,7 @@
                     <h4>Havelock Island Beach Resort</h4>
                     <p>Beachfront resort with an inviting pool.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Havelock Island Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Havelock Island Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Munjoh Ocean Resort.php">
@@ -316,7 +316,7 @@
                     <h4>Munjoh Ocean Resort</h4>
                     <p>Private pool with tropical surroundings.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Munjoh Ocean Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Munjoh Ocean Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Wild Orchid Resort.php">
@@ -324,7 +324,7 @@
                     <h4>The Wild Orchid Resort</h4>
                     <p>A serene pool area with eco-friendly features.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel The Wild Orchid Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel The Wild Orchid Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="blue bird resort.php">
@@ -332,7 +332,7 @@
                     <h4>Blue Bird Resort</h4>
                     <p>Spacious pool area perfect for families.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Blue Bird Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Blue Bird Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
         </div>
     </div>
@@ -348,7 +348,7 @@
                     <h4>Coconhuts Beach Resort</h4>
                     <p>Enjoy a relaxing pool area with a beach backdrop.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Coconhuts Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Coconhuts Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Summer Sands Beach Resort.php">
@@ -356,7 +356,7 @@
                     <h4>Summer Sands Beach Resort</h4>
                     <p>Private beach access with luxurious amenities.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Summer Sands Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Summer Sands Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Tango Beach Resort.php">
@@ -364,7 +364,7 @@
                     <h4>Tango Beach Resort</h4>
                     <p>Located on Laxmanpur Beach, ideal for relaxation.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Tango Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Tango Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Pearl Park Beach Resort.php">
@@ -372,7 +372,7 @@
                     <h4>Pearl Park Beach Resort</h4>
                     <p>Beachfront rooms with stunning ocean views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Pearl Park Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Pearl Park Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="TSG RESORT.php">
@@ -380,7 +380,7 @@
                     <h4>TSG Resorts</h4>
                     <p>Budget luxury Boutique Hotels and Beach</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel TSG Resorts" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel TSG Resorts" class="book-now-btn" target="_blank">Book Now</a>
             </div>
         </div>
     </div>
@@ -394,7 +394,7 @@
                     <h4>Silver Sand Neil Resort</h4>
                     <p>Luxurious pool with ocean views and serene ambiance.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Silver Sand Neil Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Silver Sand Neil Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Holiday Inn Beach Resort.php">
@@ -402,7 +402,7 @@
                     <h4>Holiday Inn Beach Resort</h4>
                     <p>Offers a poolside bar with tropical garden views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Holiday Inn Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Holiday Inn Beach Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
 
             <div class="hotel-card">
@@ -411,7 +411,7 @@
                     <h4>Sea Shell Samssara</h4>
                     <p>Beachfront property with stunning coastal views.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Sea Shell Samssara" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Sea Shell Samssara" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Hotel Amulya.php">
@@ -419,7 +419,7 @@
                     <h4>Hotel Amulya</h4>
                     <p>Small, intimate pool for a refreshing experience.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Hotel Amulya" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Hotel Amulya" class="book-now-btn" target="_blank">Book Now</a>
             </div>
             <div class="hotel-card">
                 <a href="Blue Lagoon Resort.php">
@@ -427,7 +427,7 @@
                     <h4>Blue Lagoon Resort</h4>
                     <p>Infinity pool overlooking lush landscapes and gardens.</p>
                 </a>
-                <a href="https://wa.me/8900943735?text=I want to book hotel Blue Lagoon Resort" class="book-now-btn" target="_blank">Book Now</a>
+                <a href="https://wa.me/918900943735?text=I want to book hotel Blue Lagoon Resort" class="book-now-btn" target="_blank">Book Now</a>
             </div>
         </div>
     </div>

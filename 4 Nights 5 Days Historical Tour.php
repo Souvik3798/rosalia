@@ -332,7 +332,7 @@
     <div class="price-section">
         <h2><i class="fas fa-tag"></i> Special Package Price</h2>
         <h3>₹42,000/- per 2 person</h3>
-        <a href="https://wa.me/8900943735?text=I%20want%20to%20book%20package%20-%204%20Nights%205%20Days%20Historical%20Tour" target="_blank" class="cta-button">Book Now</a>
+        <a href="https://wa.me/918900943735?text=I%20want%20to%20book%20package%20-%204%20Nights%205%20Days%20Historical%20Tour" target="_blank" class="cta-button">Book Now</a>
     </div>
 
     <div class="notes-section">

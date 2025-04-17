@@ -145,103 +145,103 @@
                                 <td>Light & Sound Show</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Carbyn's Cove Beach</td>
                                 <td>500</td>
                                 <td>400</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Ross Island</td>
                                 <td>500</td>
                                 <td>400</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>North Bay Island</td>
                                 <td>500</td>
                                 <td>400</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Wandoor</td>
                                 <td>1200</td>
                                 <td>1200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Jolly Buoy</td>
                                 <td>1500</td>
                                 <td>1500</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Chidiya Tapu Beach</td>
                                 <td>1200</td>
                                 <td>1200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Chatham Island & Saw Mill</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Samudrika Marine Museum</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Anthropological Museum</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Cellular Jail</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Fisheries Museum</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Shopping</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Baratang Island</td>
                                 <td>4000</td>
                                 <td>4000</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Diglipur Island</td>
                                 <td>18000</td>
                                 <td>14000</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Jetty Drop & Pick Up</td>
                                 <td>250</td>
                                 <td>200</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Mount Harriet</td>
                                 <td>2000</td>
                                 <td>1500</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
 
                             <!-- Havelock Island Section -->
@@ -252,36 +252,36 @@
                                 <td>Havelock Jetty Pick Up</td>
                                 <td>300</td>
                                 <td>250</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Radha Nagar Beach</td>
                                 <td>1200</td>
                                 <td>1000</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Elephanta Beach</td>
                                 <td>600</td>
                                 <td>600</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Kalapather Beach</td>
                                 <td>1000</td>
                                 <td>800</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Vijay Nagar Beach</td>
                                 <td>600</td>
                                 <td>500</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Combo (2 Days) - Kalapather, Radhanagar Beach, Return Jetty Drop</td>
                                 <td colspan="2">2500</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
 
                             <!-- Neil Island Section -->
@@ -292,36 +292,36 @@
                                 <td>Neil Jetty Pickup & Drop</td>
                                 <td>450</td>
                                 <td>350</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Bharatpur Beach</td>
                                 <td>450</td>
                                 <td>350</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Laxmanpur Beach</td>
                                 <td>450</td>
                                 <td>350</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Natural Bridge</td>
                                 <td>450</td>
                                 <td>350</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Sitapur Beach</td>
                                 <td>1000</td>
                                 <td>1000</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                             <tr>
                                 <td>Combo (2 Days) - Bharatpur Beach, Laxmanpur Beach, Natural Bridge, Jetty Drop</td>
                                 <td colspan="2">1800</td>
-                                <td><a href="https://wa.me/8900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
+                                <td><a href="https://wa.me/918900943735?text=Hello, I am interested in booking a cab." class="awe-btn awe-btn-small" target="_blank">Book Now <i class="fa fa-arrow-right"></i></a></td>
                             </tr>
                         </tbody>
                     </table>

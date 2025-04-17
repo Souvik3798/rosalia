@@ -34,7 +34,7 @@
                     <div class="price-tag glass-morphism p-4">
                         <span class="fs-5 d-block mb-2">Starting from</span>
                         <h2 class="display-5 fw-bold mb-3">₹1,500<small class="fs-6 text-white">/night</small></h2>
-                        <button class="btn btn-light btn-lg w-100" onclick="window.open('https://wa.me/8900943735?text=I want to check availability at Hotel Amulya', '_blank')"><i class="fas fa-calendar-alt me-2"></i>Check Availability</button>
+                        <button class="btn btn-light btn-lg w-100" onclick="window.open('https://wa.me/918900943735?text=I want to check availability at Hotel Amulya', '_blank')"><i class="fas fa-calendar-alt me-2"></i>Check Availability</button>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
                                 <div class="price">
                                     <span class="fs-3 fw-bold">₹4,000</span>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Deluxe%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Deluxe%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
                                     target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
@@ -216,7 +216,7 @@
                                 <div class="price">
                                     <span class="fs-3 fw-bold">₹4,500</span>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Four%20Bed%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Four%20Bed%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
                                     target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
@@ -242,7 +242,7 @@
                                 <div class="price">
                                     <span class="fs-3 fw-bold">₹3,000</span>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Standard%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Standard%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
                                     target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
@@ -268,7 +268,7 @@
                                 <div class="price">
                                     <span class="fs-3 fw-bold">₹3,500</span>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Triple%20Bed%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20an%20A/C%20Triple%20Bed%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
                                     target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
@@ -293,7 +293,7 @@
                                 <div class="price">
                                     <span class="fs-3 fw-bold">₹1,500</span>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20a%20Non%20A/C%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20a%20Non%20A/C%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
                                     target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
@@ -318,7 +318,7 @@
                                 <div class="price">
                                     <span class="fs-3 fw-bold">₹2,500</span>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20a%20Non%20A/C%20Triple%20Bed%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20a%20Non%20A/C%20Triple%20Bed%20Room%20at%20Hotel%20Amulya.%20Please%20provide%20more%20details."
                                     target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>

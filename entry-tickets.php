@@ -187,7 +187,7 @@
                             <div class='ticket-image' style='background-image: url({$ticket[2]});'></div>
                             <h3>{$ticket[0]}</h3>
                             <p class='price'>{$ticket[1]}</p>
-                            <a href='https://wa.me/8900943735?text=" . urlencode("I'm interested in booking the {$ticket[0]} ticket.") . "' class='btn-book-now'>Book Now</a>
+                            <a href='https://wa.me/918900943735?text=" . urlencode("I'm interested in booking the {$ticket[0]} ticket.") . "' class='btn-book-now'>Book Now</a>
                         </div>
                     </div>
                     ";

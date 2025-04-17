@@ -34,7 +34,7 @@
                     <div class="price-tag glass-morphism p-4">
                         <span class="fs-5 d-block mb-2">Starting from</span>
                         <h2 class="display-5 fw-bold mb-3">₹3500<small class="fs-6 text-white">/night</small></h2>
-                        <button class="btn btn-light btn-lg w-100" onclick="window.open('https://wa.me/8900943735?text=I want to check availability at Hotel Shompen', '_blank')"><i class="fas fa-calendar-alt me-2"></i>Check Availability</button>
+                        <button class="btn btn-light btn-lg w-100" onclick="window.open('https://wa.me/918900943735?text=I want to check availability at Hotel Shompen', '_blank')"><i class="fas fa-calendar-alt me-2"></i>Check Availability</button>
                     </div>
                 </div>
             </div>
@@ -174,7 +174,7 @@
                                     <span class="fs-3 fw-bold">₹3500</span>
                                     <small class="text-muted">/night</small>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20a%20Deluxe%20Room%20at%20Hotel%20Shompen." target="_blank" class="btn btn-success book-btn px-4">
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20a%20Deluxe%20Room%20at%20Hotel%20Shompen." target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
                             </div>
@@ -200,7 +200,7 @@
                                     <span class="fs-3 fw-bold">₹4000</span>
                                     <small class="text-muted">/night</small>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20an%20Executive%20Room%20at%20Hotel%20Shompen." target="_blank" class="btn btn-success book-btn px-4">
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20an%20Executive%20Room%20at%20Hotel%20Shompen." target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
                             </div>
@@ -226,7 +226,7 @@
                                     <span class="fs-3 fw-bold">₹5000</span>
                                     <small class="text-muted">/night</small>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I'm%20interested%20in%20booking%20a%20Family%20Suite%20Room%20at%20Hotel%20Shompen." target="_blank" class="btn btn-success book-btn px-4">
+                                <a href="https://wa.me/918900943735?text=I'm%20interested%20in%20booking%20a%20Family%20Suite%20Room%20at%20Hotel%20Shompen." target="_blank" class="btn btn-success book-btn px-4">
                                     <i class="fas fa-calendar-check me-2"></i>Book Now
                                 </a>
                             </div>

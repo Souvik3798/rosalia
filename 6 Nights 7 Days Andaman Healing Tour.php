@@ -331,7 +331,7 @@
     </div>
     <div class="price-section">
         <h2><i class="fas fa-tag"></i>Special Package Price</h2>
-        <h3>₹44,600 per 2 person</h3><a href="https://wa.me/8900943735?text=I%20want%20to%20book%20the%206%20Nights%207%20Days%20Historical%20Healing%20Tour%20Package" class="cta-button" target="_blank">Book Now</a>
+        <h3>₹44,600 per 2 person</h3><a href="https://wa.me/918900943735?text=I%20want%20to%20book%20the%206%20Nights%207%20Days%20Historical%20Healing%20Tour%20Package" class="cta-button" target="_blank">Book Now</a>
     </div>
     <div class="notes-section">
         <h2><i class="fas fa-sticky-note"></i>Important Notes</h2>

@@ -34,7 +34,7 @@
                     <div class="price-tag glass-morphism p-4">
                         <span class="fs-5 d-block mb-2">Starting from</span>
                         <h2 class="display-5 fw-bold mb-3">₹7000<small class="fs-6 text-white">/night</small></h2>
-                        <button class="btn btn-light btn-lg w-100" onclick="window.open('https://wa.me/8900943735?text=I want to check availability at Silver Sand Neil Resort', '_blank')"><i class="fas fa-calendar-alt me-2"></i>Check Availability</button>
+                        <button class="btn btn-light btn-lg w-100" onclick="window.open('https://wa.me/918900943735?text=I want to check availability at Silver Sand Neil Resort', '_blank')"><i class="fas fa-calendar-alt me-2"></i>Check Availability</button>
                     </div>
                 </div>
             </div>

@@ -63,7 +63,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹8,500/- per person</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I%20want%20to%20book%20the%203%20Nights%204%20Days%20Historical%20Tour%20Itinerary%20package" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I%20want%20to%20book%20the%203%20Nights%204%20Days%20Historical%20Tour%20Itinerary%20package" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹9,500/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 4 Nights 5 Days Historical & Excursion Tour" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 4 Nights 5 Days Historical & Excursion Tour" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹42,000/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 4 Nights 5 Days Historical Tour" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 4 Nights 5 Days Historical Tour" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹17,650/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 5 Nights and 6 Days Andaman Package" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 5 Nights and 6 Days Andaman Package" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹46,000/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 5 Nights 6 Days Historical Tour Itinerary" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 5 Nights 6 Days Historical Tour Itinerary" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -261,7 +261,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹44,600/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 6 Nights 7 Days Andaman Healing Tour" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 6 Nights 7 Days Andaman Healing Tour" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -300,7 +300,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹44,600/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 6 Nights 7 Days Historical Tour" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 6 Nights 7 Days Historical Tour" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -340,7 +340,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹39,999/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 7 Nights 8 Days Excotic Tour" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 7 Nights 8 Days Excotic Tour" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -379,7 +379,7 @@
                                     <small class="text-muted">Starting from</small>
                                     <h4 class="mb-0">₹60,000/-</h4>
                                 </div>
-                                <a href="https://wa.me/8900943735?text=I want to book package - 8 Nights 9 Days Andaman Adventure" target="_blank" class="btn btn-success">Book Now</a>
+                                <a href="https://wa.me/918900943735?text=I want to book package - 8 Nights 9 Days Andaman Adventure" target="_blank" class="btn btn-success">Book Now</a>
                             </div>
                         </div>
                     </div>

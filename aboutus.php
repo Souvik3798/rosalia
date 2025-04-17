@@ -242,7 +242,7 @@
     <section class="contact-info">
         <h2 class="section-title"><i class="fas fa-phone-alt"></i> Contact Us</h2>
         <p><i class="fas fa-envelope"></i> Email: <a href="mailto:rosaliatravels1@gmail.com">rosaliatravels1@gmail.com</a></p>
-        <p><i class="fas fa-phone"></i> Mobile: 7063943110, 8900943735</p>
+        <p><i class="fas fa-phone"></i> Mobile: 7063943110, 918900943735</p>
         <p><i class="fas fa-map-marker-alt"></i> Address: Flat no C-44/1, Kamaraj Nagar, Beside Panchayat water pump, Birdline, PO Calicut Sri Vijayapuram (Port Blair) 744105</p>
     </section>
 </div>

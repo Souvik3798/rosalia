@@ -148,7 +148,7 @@
                                 <div class='ticket-content'>
                                     <h3>{$sport[0]}</h3>
                                     <p class='ticket-price'>₹{$sport[1]}</p>
-                                    <a href='https://wa.me/8900943735?text=" . urlencode("I'm interested in booking the {$sport[0]} water sports activity.") . "' class='awe-btn awe-btn-medium awe-search'>Book Now</a>
+                                    <a href='https://wa.me/918900943735?text=" . urlencode("I'm interested in booking the {$sport[0]} water sports activity.") . "' class='awe-btn awe-btn-medium awe-search'>Book Now</a>
                                 </div>
                             </div>";
                     }

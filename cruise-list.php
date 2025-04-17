@@ -284,7 +284,7 @@
                                                 <td>{$route[2]}</td>
                                                 <td>{$route[3]}</td>
                                                 <td>{$route[4]}</td>
-                                                <td><a href='https://wa.me/8900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
+                                                <td><a href='https://wa.me/918900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
                                               </tr>";
                                     }
                                     ?>
@@ -322,7 +322,7 @@
                                                 <td>{$route[3]}</td>
                                                 <td>{$route[4]}</td>
                                                 <td>{$route[5]}</td>
-                                                <td><a href='https://wa.me/8900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
+                                                <td><a href='https://wa.me/918900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
                                               </tr>";
                                     }
                                     ?>
@@ -358,7 +358,7 @@
                                                 <td>{$route[2]}</td>
                                                 <td>{$route[3]}</td>
                                                 <td>{$route[4]}</td>
-                                                <td><a href='https://wa.me/8900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
+                                                <td><a href='https://wa.me/918900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
                                               </tr>";
                                     }
                                     ?>
@@ -403,7 +403,7 @@
                                                 <td>{$route[3]}</td>
                                                 <td>{$route[4]}</td>
                                                 <td>{$route[5]}</td>
-                                                <td><a href='https://wa.me/8900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
+                                                <td><a href='https://wa.me/918900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
                                               </tr>";
                                     }
                                     ?>
@@ -438,7 +438,7 @@
                                                 <td>{$route[2]}</td>
                                                 <td>{$route[3]}</td>
                                                 <td>{$route[4]}</td>
-                                                <td><a href='https://wa.me/8900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
+                                                <td><a href='https://wa.me/918900943735?text={$message}' class='awe-btn awe-btn-medium awe-search'>Book Now</a></td>
                                               </tr>";
                                     }
                                     ?>

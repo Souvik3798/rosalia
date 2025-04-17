@@ -167,7 +167,7 @@
             <div class="info-card">
                 <i class="fas fa-phone"></i>
                 <h3>Call Us</h3>
-                <p><a href="tel:+917063943110">7063943110</a>, <a href="tel:+918900943735">8900943735</a></p>
+                <p><a href="tel:+917063943110">7063943110</a>, <a href="tel:+918900943735">918900943735</a></p>
             </div>
             <div class="info-card">
                 <i class="fas fa-map-marker-alt"></i>

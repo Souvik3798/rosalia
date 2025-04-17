@@ -330,7 +330,7 @@
     <div class="price-section">
         <h2><i class="fas fa-tag"></i> Special Package Price</h2>
         <h3>₹70,600 for 2 persons</h3>
-        <a href="https://wa.me/8900943735?text=I%20want%20to%20book%20the%205%20Nights%206%20Days%20Andaman%20Package" class="cta-button" target="_blank">Book Now</a>
+        <a href="https://wa.me/918900943735?text=I%20want%20to%20book%20the%205%20Nights%206%20Days%20Andaman%20Package" class="cta-button" target="_blank">Book Now</a>
     </div>
 
     <div class="notes-section">
