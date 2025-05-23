@@ -400,8 +400,11 @@
           <div class="review-card">
             <div class="review-header">
               <div class="reviewer-info">
-                <img src="https://ui-avatars.com/api/?name=Panda&background=random" alt="Panda" class="reviewer-img">
-                <h5>Panda</h5>
+                <img src="https://ui-avatars.com/api/?name=Deeptesh+Pissulekar&background=random" alt="Deeptesh Pissulekar" class="reviewer-img">
+                <div>
+                  <h5>Deeptesh Pissulekar</h5>
+                  <div class="small-text" style="color:#888;">3 reviews · 6 photos</div>
+                </div>
               </div>
               <div class="rating">
                 <i class="fas fa-star text-warning"></i>
@@ -409,11 +412,12 @@
                 <i class="fas fa-star text-warning"></i>
                 <i class="fas fa-star text-warning"></i>
                 <i class="fas fa-star text-warning"></i>
+                <span style="background:#eee; color:#333; font-size:0.8rem; font-weight:600; border-radius:4px; padding:2px 6px; margin-left:8px;">NEW</span>
               </div>
             </div>
-            <p class="review-text">"An unforgettable experience"</p>
+            <p class="review-text">Andaman Island is completely unique in its offering. However, advances in its natural resources. The natural wonders in Andaman and the unspoiled environment makes it stands as a beautiful in the south east corner of India. If you are looking forward to a location to actually spend a peaceful vacation without the hustle of the cities then for sure Andaman Island will be in your list & Rosalia Travel <i class='fas fa-suitcase-rolling'></i> makes it more easier.</p>
             <div class="review-date">
-              <i class="far fa-calendar-alt"></i> January 02, 2024
+              <i class="far fa-calendar-alt"></i> July 3, 2024
               <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
             </div>
           </div>
@@ -480,7 +484,7 @@
                 <i class="fas fa-star text-warning"></i>
               </div>
             </div>
-            <p class="review-text">𝑻𝒉𝒆𝒚 𝒎𝒂𝒌𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒓𝒊𝒑𝒔 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒂𝒇𝒇𝒐𝒓𝒅𝒂𝒃𝒍𝒆 𝒂𝒏𝒅 𝒈𝒐𝒐𝒅. 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑳𝒖𝒄𝒊𝒂𝒏 𝒌𝒖𝒋𝒖𝒓 𝒘𝒉𝒐 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 𝒖𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒐𝒖𝒓 𝒃𝒖𝒅𝒈𝒆𝒕. 𝑻𝒉𝒆 𝒉𝒐𝒕𝒆𝒍 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒔𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑬𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒘𝒂𝒔 𝒗𝒆𝒓𝒚 𝒘𝒆𝒍𝒍 𝒎𝒂𝒏𝒂𝒈𝒆𝒅. 𝑨𝒕𝒍𝒂𝒔𝒕 𝒃𝒖𝒕 𝒏𝒐𝒕 𝒍𝒆𝒂𝒔𝒕 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒎𝒚 𝒂𝒏𝒅𝒂𝒎𝒂𝒏 𝒗𝒊𝒔𝒊𝒕 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑲𝒖𝒋𝒖𝒓</p>
+            <p class="review-text">𝑻𝒉𝒆𝒚 𝒎𝒂𝒌𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒓𝒊𝒑𝒔 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒂𝒇𝒇𝒐𝒓𝒅𝒂𝒃𝒍𝒆 𝒂��𝒅 𝒈𝒐𝒐𝒅. 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝒕𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑳𝒖𝒄𝒊𝒂𝒏 𝒌𝒖𝒋𝒖𝒓 𝒘𝒉𝒐 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 𝒖𝒔 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒂𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝒕𝒐 𝒐𝒖𝒓 𝒃𝒖𝒅𝒈𝒆𝒕. 𝑻𝒉𝒆 𝒉𝒐𝒕𝒆𝒍 𝒘𝒉𝒊𝒄𝒉 𝒂𝒓𝒆 𝒔𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝒂𝒓𝒆 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑬𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒘𝒂𝒔 𝒗𝒆𝒓𝒚 𝒘𝒆𝒍𝒍 𝒎𝒂𝒏𝒂𝒈𝒆𝒅. 𝑨𝒕𝒍𝒂𝒔𝒕 𝒃𝒖𝒕 𝒏𝒐𝒕 𝒍𝒆𝒂𝒔𝒕 𝒕𝒉𝒆 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒐𝒇 𝒎𝒚 𝒂𝒏𝒅𝒂𝒎𝒂𝒏 𝒗𝒊𝒔𝒊𝒕 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒈𝒐𝒐𝒅. 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑴𝒓. 𝑪𝒖𝒋𝒖𝒓</p>
             <div class="review-date">
               <i class="far fa-calendar-alt"></i> July 11, 2024
               <img src="https://www.google.com/favicon.ico" alt="Google Review" style="height: 16px; margin-left: 8px; vertical-align: text-bottom;">
